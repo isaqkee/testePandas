@@ -1,0 +1,16 @@
+ID,Nome,Idade,Cidade,Salário
+1,Ana,23.0,São Paulo,3500.0
+2,Bruno,30.0,Rio de Janeiro,4200.0
+3,Carlos,,Curitiba,3100.0
+4,Daniela,28.0,Belo Horizonte,
+5,Eduardo,35.0,Porto Alegre,4400.0
+6,Fernanda,26.0,,3900.0
+7,Gustavo,31.0,Florianópolis,
+8,Helena,,Recife,4700.0
+9,Igor,29.0,Salvador,3600.0
+10,Julia,24.0,,3300.0
+11,Karla,32.0,Natal,4100.0
+12,Lucas,27.0,Manaus,
+13,Marina,,Belém,3800.0
+14,Nicolas,33.0,Fortaleza,4500.0
+15,Otávio,36.0,,4000.0
